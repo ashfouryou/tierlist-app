@@ -30,6 +30,4 @@ class Database {
          return $this->pdo;
     }
 }
-// New 1st object
-$conn = Database::getInstance();
 ?>
